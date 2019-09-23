@@ -1,0 +1,9 @@
+Hello!
+This is a text file for playing with vim.
+It just has a few lines of text that don't mean anything.
+But whatever, meaning is overrated anyways.
+This line should be deleted.
+Delete all the hellos on this line:  hello hello hello goodbye
+Delet all everything after the colon:  hello how r u? goodbye
+
+Goodbye!
