@@ -19,7 +19,7 @@ To do this:
 2. In the script, use cd to change into directory
    passed as the first positional argument
 3. Modify your cat command from the hw to use the rating
-   specified in the 2nd argument.
+   specified in the 2nd argument. 
 3. Combine this and your other commands into one script.
 
 
