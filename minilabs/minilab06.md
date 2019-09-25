@@ -1,4 +1,4 @@
-# Minilab 05
+# Minilab 06
 
 For homework 0, we looked at the most common words
 in all the positive reviews with rating 10 and all
