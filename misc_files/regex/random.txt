@@ -1,0 +1,8 @@
+hibye
+hi
+bye
+hiye
+hbye
+( this is a line ) it has multiple parentheses ()
+( this is a line it has multiple parentheses but also has numbers 1 2 3 )
+( this is a line with numbers 1 2 3 and % @ )
