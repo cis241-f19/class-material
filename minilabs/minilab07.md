@@ -1,4 +1,4 @@
-# Minilab 06
+# Minilab 07
 
 Write a bash script that loops through all of the arguments
 and prints out the argument if there are 2 consdecutive

@@ -1,4 +1,4 @@
-# Minilab 06
+# Minilab 08
 
 In this minilab, your task is to write
 a bash script which takes as arguments
