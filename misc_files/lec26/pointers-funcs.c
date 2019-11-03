@@ -6,7 +6,8 @@ void swap(int *a, int *b);
 int main(void) {
     // 
     //int N;
-    //scanf("%d", &N);
+    //int N2;
+    //scanf("%d %d", &N, &N2);
     // below is valid in C99, optional in C11
     // safest to assume you can't do it
     //int [N];
@@ -20,12 +21,15 @@ int main(void) {
     int r = 2;
 
     int *x;
-    x = &q;
+    //x = &q;
+    x = (int *) malloc(sizeof(int));
+    *x = 10;
     int *y;
     y = &r;
     printf("x=%d, y=%d\n",*x,*y);
     swap(x,y);
     printf("x=%d, y=%d\n",*x,*y);
+    free(x);
 }
 
 void swap(int *a, int *b) {
